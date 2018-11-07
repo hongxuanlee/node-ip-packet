@@ -1,0 +1,19 @@
+{
+  "name": "ip-packet",
+  "version": "0.0.1",
+  "description": "ip packet parser in NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongxuanlee/node-ip-packet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongxuanlee/node-ip-packet/issues"
+  },
+  "homepage": "https://github.com/hongxuanlee/node-ip-packet#readme"
+}

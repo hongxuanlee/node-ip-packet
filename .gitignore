@@ -1,3 +1,7 @@
+resource
+# swp
+*.swp
+*.swo
 # Logs
 logs
 *.log
